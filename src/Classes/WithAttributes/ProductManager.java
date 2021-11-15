@@ -1,4 +1,4 @@
-package ClassesWithAttributes;
+package Classes.WithAttributes;
 
 public class ProductManager {
     public void add(Product product){

@@ -1,4 +1,4 @@
-package Classes_ReCap;
+package Classes.ReCap;
 
 public class MathOperations {
     public int addition(int num1, int num2){

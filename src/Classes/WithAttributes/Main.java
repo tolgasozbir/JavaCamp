@@ -1,4 +1,4 @@
-package ClassesWithAttributes;
+package Classes.WithAttributes;
 
 public class Main {
     public static void main(String[] args) {

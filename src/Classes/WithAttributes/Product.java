@@ -1,4 +1,4 @@
-package ClassesWithAttributes;
+package Classes.WithAttributes;
 
 public class Product {
     int id;

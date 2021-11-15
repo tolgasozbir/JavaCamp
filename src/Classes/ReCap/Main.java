@@ -1,4 +1,4 @@
-package Classes_ReCap;
+package Classes.ReCap;
 
 public class Main {
     public static void main(String[] args) {
@@ -12,6 +12,5 @@ public class Main {
         System.out.println(sum2);
         System.out.println(sum3);
         System.out.println(sum4);
-
     }
 }
