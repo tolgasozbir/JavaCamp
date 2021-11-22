@@ -1,4 +1,4 @@
-package Interfaces;
+package OOP_Interfaces;
 
 public class SmsLogger implements Logger{
     @Override

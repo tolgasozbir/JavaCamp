@@ -1,4 +1,4 @@
-package Interfaces;
+package OOP_Interfaces;
 
 public class FileLogger implements Logger{
     @Override

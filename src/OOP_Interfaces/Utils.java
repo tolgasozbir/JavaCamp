@@ -1,4 +1,4 @@
-package Interfaces;
+package OOP_Interfaces;
 
 public class Utils {
     public static void runLoggers(Logger[] loggers, String message){

@@ -1,4 +1,4 @@
-package Interfaces;
+package OOP_Interfaces;
 
 public class DatabaseLogger implements Logger{
     @Override
